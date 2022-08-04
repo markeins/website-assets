@@ -3,9 +3,7 @@
 /css
 /fonts
 /vendor
-*.png
 *.xml
-*.ico
 *.html
 *.php
 /*.js
