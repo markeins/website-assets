@@ -1,0 +1,16 @@
+.htaccess
+/files
+/css
+/fonts
+/images
+/vendor
+*.png
+*.xml
+*.ico
+*.html
+*.php
+/*.js
+*.map
+*.json
+*.txt
+*.svg
