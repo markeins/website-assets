@@ -1,5 +1,7 @@
 .htaccess
 /files
+/fonts
+/css
 /vendor
 *.xml
 *.html
